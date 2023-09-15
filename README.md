@@ -28,12 +28,12 @@ https://github.com/Abdugafur111/Nexus <br>
 ## ReactJS Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
 MessageGram
 https://github.com/Abdugafur111/MessageGram <br>
-<a href="#"><img align="right" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200 " height="200" /></a>
+
 
 
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-<a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
+<a href="#"><img align='middle' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
 Music API
 [https://github.com/JiminSongSoftware/FitPal/tree/main/fitness](https://github.com/Abdugafur111/MusicApp) <br>
 Student Space
