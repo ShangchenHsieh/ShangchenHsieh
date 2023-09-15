@@ -2,36 +2,24 @@
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   * 🥷 Merlin the coder
-  * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every details.
-  * 📫 Best way to reach me: koreaabdu16@gmail.com [or straight call me at 4087977131]
+  * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
+  * 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906
   
-<a href="https://linkedin.com/in/abdugafur-dalerzoda/">
+<a href="https://www.linkedin.com/in/sean-hsieh-598167222/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
 </a>
-<a href="https://discord.com/users/">
+<a href="discordapp.com/users/559745688267653133">
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
 </a>
 </a>
-<a href="https://codepen.io/">
-  <img
-    alt="Codepen"
-    src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
-  />
-</a>
-</a>
-<a href="https://www.kaggle.com/">
-  <img
-    alt="Kaggle"
-    src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
-  />
-</a>
+
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 </a>
