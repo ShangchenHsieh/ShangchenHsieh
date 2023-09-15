@@ -12,7 +12,7 @@
   />
 </a>
 </a>
-<a href="discordapp.com/users/559745688267653133">
+<a href="https://discordapp.com/users/559745688267653133">
   <img
     alt="Discord"
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
