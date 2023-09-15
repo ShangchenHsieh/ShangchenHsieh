@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> 
 About Me
 <br />
-<a href="https://www.linkedin.com/in/sean-hsieh-598167222/">
+<a href="https://www.linkedin.com/in/shangchen-hsieh-598167222/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
