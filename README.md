@@ -21,7 +21,7 @@ About Me
 
 
 <br />
-* 🪄 Hi! I'm Sean, a CS student expertise in fullstack development @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
+* 🪄 Hi! I'm Sean, a CS student with expertise in full-stack development @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
 <a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a><br />
 * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
 <br /> 
@@ -42,8 +42,11 @@ https://github.com/Abdugafur111/FleetApp <br>
 
 
 
+
 <a href="https://github.com/ShangchenHsieh">
-<img height=160 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdugafur111" alt="Jim's GitHub Stats" title="GitHub Streak"/>
-<img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdugafur111&layout=compact" alt="Abdu's Github Most Used Languages"/>
+  
+<img height=160 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangchenHsieh&layout=compact" alt="Sean's Github Most Used Languages"/>
+<img height=160 align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=shangchenhsieh" alt="Jim's GitHub Stats" title="GitHub Streak"/>
+
 </a>
 
