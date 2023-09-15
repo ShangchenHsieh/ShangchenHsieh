@@ -4,6 +4,7 @@
   * 🥷 Merlin the coder
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
   * 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906
+<a href="#"><img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
   
 <a href="https://www.linkedin.com/in/sean-hsieh-598167222/">
   <img
@@ -33,7 +34,7 @@ https://github.com/Abdugafur111/MessageGram <br>
 
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-<a href="#"><img align='top' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
+
 Music API
 [https://github.com/JiminSongSoftware/FitPal/tree/main/fitness](https://github.com/Abdugafur111/MusicApp) <br>
 Student Space
