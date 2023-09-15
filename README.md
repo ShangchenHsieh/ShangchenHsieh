@@ -14,9 +14,13 @@
   />
 </a>
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> 
+<br />
 About Me
+<br />
   * 🥷 Hi! I'm Sean, a CS student @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
+  <br />
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
+  <br />
   * 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906
 
 <a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a>
