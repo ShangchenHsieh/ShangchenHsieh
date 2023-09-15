@@ -30,15 +30,14 @@ About Me
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
-Music API
-[https://github.com/JiminSongSoftware/FitPal/tree/main/fitness](https://github.com/Abdugafur111/MusicApp) <br>
-Student Space
-https://github.com/Abdugafur111/StudentSpace <br>
-Library Manager <br>
-https://github.com/Abdugafur111/LibraryManager <br>
-Fleet App <br>
-https://github.com/Abdugafur111/FleetApp <br>
-</a>
+Personal Project Management Tool <br>
+https://github.com/ShangchenHsieh/personal-project-management-tool <br>
+Pet Management Tool <br >
+https://github.com/ShangchenHsieh/pet-management-tool <br>
+Social Media APIs <br>
+https://github.com/ShangchenHsieh/social-media-apis <br>
+<br>
+
 
 
 
