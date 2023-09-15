@@ -20,7 +20,7 @@ About Me
 
 <a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a>
 
-<br />
+  <br />
 
   * 🥷 Hi! I'm Sean, a CS student @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
   <br />
