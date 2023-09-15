@@ -21,18 +21,6 @@
 </a>
 
 
-
-## Angular and Laravel Projects <img height="30" src="https://github.com/remojansen/logo.ts/blob/master/ts.gif"/>  <br>
-Nexus
-http://nexus-dashboard.software/ <br>
-https://github.com/Abdugafur111/Nexus <br>
-## ReactJS Projects <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  <br>
-MessageGram
-https://github.com/Abdugafur111/MessageGram <br>
-
-
-
-
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 Music API
