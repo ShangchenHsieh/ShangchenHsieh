@@ -22,12 +22,10 @@ About Me
 
 <br />
 * 🥷 Hi! I'm Sean, a CS student @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
-<br />
+<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a><br />
 * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
 <br /> 
-
-* 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906 <a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a>
-    
+* 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906 
 
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
