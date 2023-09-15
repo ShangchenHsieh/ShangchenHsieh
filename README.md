@@ -18,11 +18,9 @@
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
 </a>
-</a>
 
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-</a>
+
 ## Angular and Laravel Projects <img height="30" src="https://github.com/remojansen/logo.ts/blob/master/ts.gif"/>  <br>
 Nexus
 http://nexus-dashboard.software/ <br>
