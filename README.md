@@ -1,4 +1,5 @@
 <base target="_blank">
+
 <a href="https://www.linkedin.com/in/sean-hsieh-598167222/">
   <img
     alt="Linkedin"
@@ -12,7 +13,7 @@
     src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
   />
 </a>
-### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> About Me
   * 🥷 Hi! I'm Sean, a CS student @ SJSU, and I'm a spiritual developer. I believe Merlin's magic from the ancient middle-ages would help me develop. 
   * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
   * 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906
