@@ -18,7 +18,7 @@ About Me
   />
 </a>
 
-<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a>
+
 
   <br />
 
@@ -28,7 +28,7 @@ About Me
   <br />
   * 📫 Best way to reach me: seankh4444@gmail.com / cell: 408-704-0906
   
-
+<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a>
 
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
