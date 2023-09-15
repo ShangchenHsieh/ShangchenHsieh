@@ -2,8 +2,8 @@
 
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> 
-<br />
 About Me
+<br />
 <a href="https://www.linkedin.com/in/sean-hsieh-598167222/">
   <img
     alt="Linkedin"
