@@ -33,7 +33,7 @@ https://github.com/Abdugafur111/MessageGram <br>
 
 
 ## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-<a href="#"><img align='middle' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
+<a href="#"><img align='top' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" /></a>
 Music API
 [https://github.com/JiminSongSoftware/FitPal/tree/main/fitness](https://github.com/Abdugafur111/MusicApp) <br>
 Student Space
