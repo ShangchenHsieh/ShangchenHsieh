@@ -22,13 +22,13 @@ About Me
 
 <br />
 * 🪄 Hi! I'm Sean, a CS student with expertise in full-stack development @ San Jose State University. I'm a spiritual developer, and I believe that Merlin's magic from the ancient middle-ages would help me develop. 
-<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="200" /></a><br />
+<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="180" /></a><br />
 * 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
 <br /> 
 * 📫 Best way to reach me: seankh4444@gmail.com / cell: 0X198-2c0-38a 
 
 
-## SpringBoot Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+ <img align="left" margin-left="auto" margin-right="auto" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-thegem-blog-default-large.png" width="80"> <h1> SpringBoot Projects </h1>
 
 Personal Project Management Tool <br>
 https://github.com/ShangchenHsieh/personal-project-management-tool <br>
