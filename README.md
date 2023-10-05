@@ -30,15 +30,15 @@ About Me
 <br />
 
 
-<h1> SpringBoot Projects  <img vertcal-align="right" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-thegem-blog-default-large.png" width="40">  
+<h1> [SpringBoot Projects]  <img vertcal-align="right" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-thegem-blog-default-large.png" width="40">  
 </h1>
-<h3> Personal Project Management Tool </h3> 
+<h3> [Personal Project Management Tool] </h3> 
 https://github.com/ShangchenHsieh/personal-project-management-tool <br>
-<h3> Pet Management Tool </h3> 
+<h3> [Pet Management Tool] </h3> 
 https://github.com/ShangchenHsieh/pet-management-tool <br>
 
-<h1> fastAPI Projects  <img vertcal-align="right" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">  
-<h3> Social Media APIs </h3>
+<h1> [fastAPI Projects]  <img vertcal-align="right" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">  
+<h3> [Social Media APIs] </h3>
 https://github.com/ShangchenHsieh/social-media-apis <br>
 <br>
 
