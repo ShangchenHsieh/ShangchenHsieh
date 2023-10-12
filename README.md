@@ -1,49 +1,59 @@
-<base target="_blank">
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50">
+</p>
 
+<h1 align="center">Hi, I'm Sean! 🪄</h1>
 
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50"> 
-About Me
-<br />
-<a href="https://www.linkedin.com/in/shangchen-hsieh-598167222/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-</a>
-<a href="https://discordapp.com/users/559745688267653133">
-  <img
-    alt="Discord"
-    src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-  />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shangchen-hsieh-598167222/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://discordapp.com/users/559745688267653133">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  🚀 I'm a CS student with a passion for full-stack development at San Jose State University. My coding journey is like wielding Merlin's magic from the ancient Middle Ages - creating digital enchantments!
+</p>
 
+<p align="center">
+  💬 Ask me about any of my projects below. I'm always eager to share the magic behind the code.
+</p>
 
-<br />
-* 🪄 Hi! I'm Sean, a CS student with expertise in full-stack development @ San Jose State University. I'm a spiritual developer, and I believe that Merlin's magic from the ancient middle-ages would help me develop. 
-<a href="#"><img align='right' src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="180" /></a><br />
-* 💬 Ask me about any projects I have worked on below. I will be happy to discuss every detail.
-<br /> 
-* 📫 Best way to reach me: seankh4444@gmail.com / cell: 0X198-2c0-38a
+<p align="center">
+  📫 You can reach me at seankh4444@gmail.com or call me at 0X198-2c0-38a.
+</p>
 
-<br />
+<p align="center">
+  <img src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="180" />
+</p>
 
+<h2 align="center">Featured Springboot Projects</h2>
 
-<h1> [SpringBoot Projects]  <img vertcal-align="right" src="https://ertan-toker.de/wp-content/uploads/2018/04/spring-boot-project-logo-1-thegem-blog-default-large.png" width="40">  
-</h1>
-<h3> [Personal Project Management Tool] </h3> 
-https://github.com/ShangchenHsieh/personal-project-management-tool <br>
-<h3> [Pet Management Tool] </h3> 
-https://github.com/ShangchenHsieh/pet-management-tool <br>
+<p align="center">
+  <a href="https://github.com/ShangchenHsieh/personal-project-management-tool">
+    <b>🌟 Personal Project Management Tool</b>
+  </a>
+</p>
 
-<h1> [fastAPI Projects]  <img vertcal-align="right" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">  
-<h3> [Social Media APIs] </h3>
-https://github.com/ShangchenHsieh/social-media-apis <br>
-<br>
+<p align="center">
+  <a href="https://github.com/ShangchenHsieh/pet-management-tool">
+    <b>🐾 Pet Management Tool</b>
+  </a>
+</p>
 
+<h2 align="center">Explore More Magic</h2>
 
+<p align="center">
+  🚀 Dive into my fastAPI project: <a href="https://github.com/ShangchenHsieh/social-media-apis"><b>Social Media APIs</b></a>
+</p>
 
+<p align="center">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100" />
+</p>
+
+  
 
 
 <a href="https://github.com/ShangchenHsieh">
