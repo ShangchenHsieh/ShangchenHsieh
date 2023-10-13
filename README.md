@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50">
+  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="80">
 </p>
 
 <h1 align="center">Hi, I'm Sean! 🪄</h1>
