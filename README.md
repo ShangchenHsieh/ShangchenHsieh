@@ -45,13 +45,24 @@
 
 <h2 align="center">Explore More Magic</h2>
 
+
 <p align="center">
+  <p align="center">
+  
+  🚀 Dive into my Dash Machine Learning/AI project: <a href="https://github.com/ShangchenHsieh/germany_city_plus"><b>Germany City+</b></a>  
+</p>
+<p align="center">
+  
+
   🚀 Dive into my fastAPI project: <a href="https://github.com/ShangchenHsieh/social-media-apis"><b>Social Media APIs</b></a>
+  
 </p>
 
 <p align="center">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100" />
 </p>
+</p>
+
 
 
 
