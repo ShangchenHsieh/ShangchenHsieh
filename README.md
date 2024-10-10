@@ -1,8 +1,17 @@
-<p align="center">
-  <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="80">
-</p>
 
 <h1 align="center">Hi, I'm Sean! 🪄</h1>
+
+<p align="center">
+  🚀 I'm a Computer Science student at San Jose State University with a passion for full-stack development. My coding journey is like wielding Merlin's magic, creating digital enchantments from the ancient Middle Ages!
+</p>
+
+<p align="center">
+  💬 I'm always eager to share the magic behind my code. Feel free to ask about any of my projects below!
+</p>
+
+<p align="center">
+  📫 You can reach me at <a href="mailto:seankh4444@gmail.com">shangchenhsieh0702@gmail.com</a> or text me at 0X198-2c0-38a.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shangchen-hsieh-598167222/">
@@ -14,63 +23,50 @@
 </p>
 
 <p align="center">
-  🚀 I'm a CS student with a passion for full-stack development at San Jose State University. My coding journey is like wielding Merlin's magic from the ancient Middle Ages - creating digital enchantments!
-</p>
-
-<p align="center">
-  💬 Ask me about any of my projects below. I'm always eager to share the magic behind the code.
-</p>
-
-<p align="center">
-  📫 You can reach me at seankh4444@gmail.com or call me at 0X198-2c0-38a.
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/nCkvVpIDxPgAAAAC/merlin.gif" width="180" />
 </p>
 
-<h2 align="center">Featured Springboot Projects</h2>
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/ShangchenHsieh/personal-project-management-tool">
-    <b>🌟 Personal Project Management Tool</b>
+    <b>🛠️ Personal Project Management Tool</b>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/ShangchenHsieh/pet-management-tool">
     <b>🐾 Pet Management Tool</b>
   </a>
 </p>
 
-<h2 align="center">Explore More Magic</h2>
-
+<h2 align="center">🌍 Explore More Magic</h2>
 
 <p align="center">
-  <p align="center">
-  
-  🚀 Dive into my Dash Machine Learning/AI project: <a href="https://github.com/ShangchenHsieh/germany_city_plus"><b>Germany City+</b></a>  
+  🚀 Dive into my Dash Machine Learning/AI project: <a href="https://github.com/ShangchenHsieh/germany_city_plus"><b>Germany City+</b></a>
 </p>
 <p align="center">
-  
-
-  🚀 Dive into my fastAPI project: <a href="https://github.com/ShangchenHsieh/social-media-apis"><b>Social Media APIs</b></a>
-  
+  🚀 Check out my FastAPI project: <a href="https://github.com/ShangchenHsieh/social-media-apis"><b>Social Media APIs</b></a>
 </p>
 
 <p align="center">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100" />
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/ShangchenHsieh">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangchenHsieh&layout=compact" alt="Sean's GitHub Most Used Languages"/>
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=shangchenhsieh" alt="Sean's GitHub Stats" title="GitHub Streak"/>
+  </a>
 </p>
 
+---
 
-
-
-
-<a href="https://github.com/ShangchenHsieh">
-  
-<img height=160 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShangchenHsieh&layout=compact" alt="Sean's Github Most Used Languages"/>
-<img height=160 align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=shangchenhsieh" alt="Jim's GitHub Stats" title="GitHub Streak"/>
-
-</a>
-
+<p align="center">
+  Thank you for visiting my profile! 🌟
+</p>
